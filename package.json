@@ -49,7 +49,7 @@
     "i18n-tag-schema": "^2.5.0",
     "json-logic-js": "git://github.com/axa-ch/cyclic-schemas-test.git",
     "lint-staged": "^9.2.1",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1",
     "semantic-release": "^15.13.20",
     "unist-util-select": "^3.0.0"
